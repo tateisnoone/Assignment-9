@@ -58,7 +58,6 @@
     flex-wrap: wrap;
   }
 }
-
 @media (max-width: 650px) {
   .fa-bars {
     display: block;
@@ -66,6 +65,8 @@
   nav {
     display: none;
   }
+}
+@media (max-width: 650px) {
   .rightside {
     width: 95%;
     display: -webkit-box;
